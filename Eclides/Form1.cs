@@ -19,7 +19,7 @@ namespace Eclides
 
         private void Btnsi_Click(object sender, EventArgs e)
         {
-            int a, b,temp,i=0,res,es;
+            int a, b,temp,i=1,res,es;
             a = int.Parse(Txtm.Text);
             b= int.Parse(Txtn.Text);
              while(b!=0)
